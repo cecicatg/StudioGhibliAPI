@@ -2,7 +2,7 @@
 
 ## Description
 This API was developed with the intention to obtain summarized and specific data about the films, characters, worlds, species and vehicles that can be enjoyed in the different films that Studio Ghibli gives us, in order to easily obtain information about what we want to know.
-The API takes information from: https://ghibliapi.herokuapp.com/
+The API takes data from: https://ghibliapi.herokuapp.com/
 
 ## Instalation
 >Prerequisites: 
@@ -49,4 +49,4 @@ To use the POST method follow the subsecuent table:
 |POST Vehicle|http://localhost:5000/select-vehicle|{"id": "923d70c9-8f15-4972-ad53-0128b261d628"}|Vehicle 'Sasuke's Boat' details|
 
 ## Developer
-Developed by **Cecilia Alexia Torres Guzman** in the period of August to september of the year 2021.
+This project was developed by **Cecilia Alexia Torres Guzman** in the period of August to September of the year 2021.
